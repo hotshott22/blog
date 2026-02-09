@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-users
+icon: fas fa-address-book
 order: 5
 ---
 
