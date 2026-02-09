@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Almuni
+title: Quotes
 permalink: /quotes/
 icon: fas fa-quote-left
 order: 5
