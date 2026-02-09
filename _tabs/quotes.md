@@ -2,7 +2,7 @@
 layout: page
 title: Quotes
 permalink: /quotes/
-icon: fas fa-quote-left
+icon: fas fa-stream
 order: 5
 toc: true
 ---
