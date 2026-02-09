@@ -12,41 +12,65 @@ order: 6
 
 ---
 
-## Person Name
+<!-- PERSON 1 -->
+<div style="display:flex; align-items:flex-start; margin-bottom:40px; gap:20px;">
 
-![Person Name](/assets/testImage.jpg)
+  <img src="/assets/testImage.jpg"
+       alt="Person Name"
+       style="width:150px; height:150px; object-fit:cover; border-radius:10px;" />
 
-**M.Tech Thesis Topic**  
-Title of the thesis goes here
+  <div>
+    <h3>Person Name</h3>
 
-**Interests**  
-Control Systems, Optimization, Machine Learning
+    <p><strong>M.Tech Thesis Topic:</strong><br>
+    Title of the thesis goes here</p>
 
-**Domain**  
-Control & Systems Engineering
+    <p><strong>Interests:</strong><br>
+    Control Systems, Optimization, Machine Learning</p>
 
-**Contact**  
-- [LinkedIn](https://www.linkedin.com/in/username)
-- [Email](mailto:person@email.com)
+    <p><strong>Domain:</strong><br>
+    Control & Systems Engineering</p>
+
+    <p><strong>Contact:</strong><br>
+    <a href="https://www.linkedin.com/in/username" target="_blank">LinkedIn</a> |
+    <a href="mailto:person@email.com">Email</a>
+    </p>
+  </div>
+
+</div>
 
 ---
 
-## Person Name
+<!-- PERSON 2 -->
+<div style="display:flex; align-items:flex-start; margin-bottom:40px; gap:20px;">
 
-![Person Name](/assets/testImage.jpg)
+  <img src="/assets/testImage.jpg"
+       alt="Person Name"
+       style="width:150px; height:150px; object-fit:cover; border-radius:10px;" />
 
-**M.Tech Thesis Topic**  
-Thesis title here
+  <div>
+    <h3>Person Name</h3>
 
-**Interests**  
-Robotics, Reinforcement Learning
+    <p><strong>M.Tech Thesis Topic:</strong><br>
+    Thesis title here</p>
 
-**Domain**  
-Robotics & AI
+    <p><strong>Interests:</strong><br>
+    Robotics, Reinforcement Learning</p>
 
-**Contact**  
-- [LinkedIn](https://www.linkedin.com/in/username)
-- [Email](mailto:person@email.com)
+    <p><strong>Domain:</strong><br>
+    Robotics & AI</p>
+
+    <p><strong>Contact:</strong><br>
+    <a href="https://www.linkedin.com/in/username" target="_blank">LinkedIn</a> |
+    <a href="mailto:person@email.com">Email</a>
+    </p>
+  </div>
+
+</div>
+
+---
+
+<!-- COPY THIS BLOCK FOR PERSON 3–10 -->
 
 ---
 
