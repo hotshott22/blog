@@ -13,7 +13,7 @@ order: 5
 <!--        M.TECH SECTION     -->
 <!-- ========================= -->
 
-<details open style="margin-bottom:40px;">
+<details style="margin-bottom:40px;">
 <summary style="cursor:pointer; font-size:2rem; font-weight:700;">
 🎓 M.Tech
 </summary>
